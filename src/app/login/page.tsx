@@ -56,7 +56,7 @@ export default function LoginPage() {
         className="bg-white p-8 rounded-lg shadow-md w-full max-w-md"
       >
         <h2 className="text-2xl font-bold mb-6 text-center">
-          {isSignUp ? "Sign Up" : "Login"} to Bookworm
+          {isSignUp ? "Sign Up" : "Login"} to GeoLoacter.io
         </h2>
 
         {isSignUp && (
